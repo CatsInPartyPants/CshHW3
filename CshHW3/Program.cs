@@ -11,7 +11,7 @@ namespace CshHW3
         static void Main(string[] args)
         {
             //task 1
-            /*
+            //
             void DrawSquare(int size, char simb)
             {
                 for(int i = 1; i <= size; i++)
@@ -33,10 +33,10 @@ namespace CshHW3
 
             DrawSquare(25, '(');
             Console.ReadKey();
-            */
+            
 
             // tasl 2
-            /*
+            
             int number2;
             Console.WriteLine("Enter 4 digit number");
             number2 = Int32.Parse(Console.ReadLine());
@@ -56,10 +56,10 @@ namespace CshHW3
             else
                 Console.WriteLine("Not polindrom");
             Console.ReadKey();
-            */
+            
 
             //task 3
-            /*
+            
             void ArrayFilter(ref int [] arr1, int [] arr2)
             {
                 for(int i = 0; i < arr2.Length; i++)
@@ -78,7 +78,7 @@ namespace CshHW3
                 Console.WriteLine(i);
             }
             Console.ReadKey();
-            */
+            
 
             //task 4, 5, 6
 
